@@ -2,6 +2,10 @@
 
 Just a prototype of the web version of something like https://github.com/the-curve-consulting/expo-sensor-fusion
 
+#### Demo
+
+https://github.com/user-attachments/assets/c202cc2f-c388-47f7-919a-f4872445e3d6
+
 #### Getting started
 
 1. `bun install`
